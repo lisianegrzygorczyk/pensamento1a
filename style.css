@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(187, 219, 135);
+}
+h1{
+    text-align: center;
+    background-color: #249e5b;
+    margin-inline-end: 30%;
+    margin-inline-start:30%;
+    color:rgb(0, 0, 0);
+}
+.titulo-principal{
+    padding-left: 20px;
+}
+p{
+    color: rgb(47, 2, 36);
+    font-size: 20px;
+    text-align: justify;
+    
+}
+.centro1{
+    text-align: center ;
+
+}
+#foto2{
+    width: 500px;
+    height: 300px;
+}
+ 
+.centro{
+    text-align: center;
+}
+#foto4{
+    width: 500px;
+    height: 300px;
+}
+#missao{
+    font-size: 20px;
+}
+em strong{
+    color: rgb(97, 81, 165);
+}
+.itens{
+    font-style: italic;
+    font-size: 20px;
+}
+.titulo{
+    text-align: center;
+}
+.beneficios{
+background-color: aliceblue;
+padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+#foto3{
+    width: 600px;
+    height: 600px;
+}
+.pilares{
+    width: 30%;
+    
+}
+.titulo{font-size: 30px;}
